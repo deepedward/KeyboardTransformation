@@ -3,11 +3,6 @@ package com.kb;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 
- * naim@sensehq.com
- * 
- */
 public class KeyboardTransformation {
 
 	public static void main(String[] args) {
